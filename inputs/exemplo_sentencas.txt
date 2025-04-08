@@ -1,0 +1,3 @@
+Este projeto visa desenvolver um chatbot que interage com documentos PDF.
+O chatbot responderá perguntas baseadas no conteúdo dos PDFs carregados.
+A utilização de embeddings e busca vetorizada permitirá respostas precisas e contextuais.
